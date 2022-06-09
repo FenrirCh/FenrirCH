@@ -1,7 +1,7 @@
 <h1> Ola sou o FIlipe prazer</h1>
 
 <div>
-   <p>📖 estudando:HTML, python , JavaScrit, css</p>
+   <p>📖 estudando:python</p>
    <p>🔧 não estou trabalhado pois sou estudante</p>
 </div>
 
